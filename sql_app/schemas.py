@@ -34,4 +34,4 @@ class User(UserBase):
     items: List[Item] = []
 
     class Config:
-        orm_mode = True
+        orm_mode = True  # 实现ORM表关联
