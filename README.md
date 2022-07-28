@@ -54,3 +54,5 @@ virtualenv --version // 检测是否安装成功
 virtualenv 文件名  // 在该文件名目录下生成一个python环境
 ```
 ## 2. 然后在'虚拟环境'目录下进行安装依赖和运行
+> 下图的venv就是我的虚拟环境文件夹名称，terminal显示（虚拟环境名）即表示当前在虚拟环境下
+![img.png](img.png)
